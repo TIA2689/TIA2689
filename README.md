@@ -14,4 +14,4 @@ Hey 😃 I'm Titir, a Graduate student in Applied Artificial Intelligence at Ste
 
 📫 Reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/titir-talukder-721610224/) or via [Email](ttalukde1@stevens.edu)!
 
-⚡ Fun Fact: I have a serious sweet tooth 🍰 (always looking for the best dessert spots!).
+⚡ Fun Fact: I love writing acrostic poems. Also I have a serious sweet tooth 🍰 (always looking for the best dessert spots!). 
