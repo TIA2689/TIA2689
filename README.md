@@ -1,17 +1,45 @@
 ## Hi there 👋
 
-Hey 😃 I'm Titir, a Graduate student in Applied Artificial Intelligence at Stevens Institute of Technology. I'm building a career at the intersection of Robotics, AI Infrastructure, and Human-Centered Design—focusing on tech that directly improves human lives.
+I'm **Titir**, a Graduate student in **Applied Artificial Intelligence** at Stevens Institute of Technology. I am building a career at the intersection of **Robotics, AI Infrastructure, and Human-Centered Design**—focusing on technology that directly impacts human lives.
 
-💻 Academic Focus: Currently maintaining a near-perfect track record in Deep Learning (AAI 628) and Pattern Recognition (AAI 646). I'm fascinated by the math of neural networks and their application in real-world data acquisition.
+## 🧪 Research
+* **AI Infrastructure Siting (Stevens Institute of Technology — 2026):** Currently co-authoring "Mapping the Future of Artificial Intelligence Infrastructure: A Machine Learning Approach to Locating Data Centers".
+* **Methodology:** Developing a machine learning approach to siting data centers using public and private data to optimize for energy, risk, and policy.
 
-🔭 Current Research: I am currently co-authoring a paper titled "Mapping the Future of Artificial Intelligence Infrastructure: A Machine Learning Approach to Locating Data Centers." We’ve developed a ML-driven framework to optimize data center siting by balancing energy, risk, and policy.
+## 🎓 Education
+**Stevens Institute of Technology | M.S. in Applied Artificial Intelligence**
+<details>
+  <summary><strong>Technical Courses: In Progress (Spring 2026)</strong></summary>
 
-🧠 Design Philosophy: I believe the best AI is "Human-Centered." My goal is to bridge the gap between complex robotics and intuitive, purposeful user experiences.
+* **AAI 628**: Data Acquisition: Deep Learning
+* **AAI 646**: Pattern Recognition & Classification
+* **CS 810**: Special Topics in Computer Science
+* **EMT 696**: Applied Artificial Intelligence Elective
+</details>
 
-🏆 Recent Projects: From predictive algorithms to deep learning models, I love building systems that solve high-stakes problems in healthcare and infrastructure.
+<details>
+  <summary><strong>Technical Courses: Completed (Fall 2025)</strong></summary>
 
-📚 Interests: When I'm not training models, I'm likely caught up in Webtoons or a good book.
+* **AAI 627**: Data Acquisition, Modeling, and Analysis
+* **AAI 551**: Engineering Programming: Python
+* **EE 605**: Probability & Stochastic Processes
+</details>
 
-📫 Reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/titir-talukder-721610224/) or via [Email](ttalukde1@stevens.edu)!
+**MVJ College of Engineering (VTU) | B.E. in Data Science (Computer Science Engineering)**
+<details>
+  <summary><strong>Undergraduate Highlights</strong></summary>
 
-⚡ Fun Fact: I love writing acrostic poems. Also I have a serious sweet tooth 🍰 (always looking for the best dessert spots!). 
+* Focused on foundational Data Science and Computer Science Engineering principles.
+</details>
+
+## 💼 Experience & Projects
+* **Research Intern (Predictive Algorithms):** Applying for roles at companies like ZOLL to use predictive modeling for real-world healthcare outcomes.
+* **Human-Centered AI:** Exploring how assistive technology and predictive systems can be designed with an intuitive user experience in mind.
+* **Wellness Technology:** Organized the "Art of Living Goa Tour" for 40 teachers, developing a comprehensive wellness curriculum and logistics plan.
+
+## 🚀 Technical Skills
+* **Languages & Tools:** Python, C++, Deep Learning (PyTorch), Git.
+* **Specializations:** Predictive Algorithms, Pattern Recognition, AI Infrastructure Siting.
+
+---
+📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/titir-talukder-721610224/)** or **[Email](mailto:talukdertitir@gmail.com)**!
